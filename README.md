@@ -45,11 +45,11 @@ At the end of the week, the game evaluates the final stats and generates a perso
 
 ## **How to Run the Game:**
 
--Clone this repository or download the Python file: college_game.py
--Open the file using Python IDLE or any Python editor.
--Run the program using: python college_game.py
--Follow the on-screen instructions.
--Enter your choices using a, b, or c when prompted.
+- Clone this repository or download the Python file: college_game.py
+- Open the file using Python IDLE or any Python editor.
+- Run the program using: python college_game.py
+- Follow the on-screen instructions.
+- Enter your choices using a, b, or c when prompted.
 
 ---
 
